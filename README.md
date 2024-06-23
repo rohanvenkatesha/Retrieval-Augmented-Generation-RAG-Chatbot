@@ -1,4 +1,4 @@
-# rag_chatbot
+# Retrieval-Augmented-Generation-RAG-Chatbot
 
 ### How to install ?
 
