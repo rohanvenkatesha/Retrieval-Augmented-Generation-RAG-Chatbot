@@ -86,3 +86,5 @@ tzdata
 urllib3 
 wheel==0.41.2
 yarl
+faiss-cpu
+faiss-gpu
