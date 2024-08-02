@@ -1,5 +1,3 @@
-Certainly! Let’s break down the code you provided step by step, explaining each part and how it contributes to the overall functionality of the RAG Chatbot.
-
 ### 1. **Imports and Configuration**
 
 ```python
@@ -207,5 +205,3 @@ if __name__ == "__main__":
 - **Text Handling**: Text from PDFs is extracted, split into chunks, and stored in a vector database using FAISS for similarity-based search.
 - **Image Handling**: Images are processed and analyzed using a generative AI model to extract relevant text.
 - **Question Answering**: User queries are handled by a conversational AI model that utilizes context and memory to generate accurate responses.
-
-This code allows the chatbot to handle both text and image inputs, providing detailed responses based on the content of the files. Let me know if you need more specific explanations or have further questions!
